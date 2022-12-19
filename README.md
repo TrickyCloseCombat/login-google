@@ -9,6 +9,6 @@ To get a local copy up and running follow these simple example steps.
 Just run this command and you should be good to go.
 * npm
   ```sh
-  npm i -force
+  npm i --force
   ```
 
