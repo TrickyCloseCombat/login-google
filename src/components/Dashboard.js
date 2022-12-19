@@ -74,6 +74,7 @@ function Dashboard(user){
                     alt="Paella dish"
                 />
                 <CardContent>
+                    
                     <Typography variant="body2" color="text.secondary">
                     This is a minimal dashboard screen for the iTransition test
                     in order to succesfully demonstrate the correct implementation
