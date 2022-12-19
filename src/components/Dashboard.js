@@ -73,8 +73,7 @@ function Dashboard(user){
                     image="https://www.adobe.com/express/create/chart/pie/media_1f78d811bae5e3b9cc9057d342e2a8541a493525d.png?width=750&format=png&optimize=medium"
                     alt="Paella dish"
                 />
-                <CardContent>
-                    
+                <CardContent>               
                     <Typography variant="body2" color="text.secondary">
                     This is a minimal dashboard screen for the iTransition test
                     in order to succesfully demonstrate the correct implementation
